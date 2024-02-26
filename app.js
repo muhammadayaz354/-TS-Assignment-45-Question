@@ -1,5 +1,4 @@
 "use strict";
-console.log(4 + 4);
-console.log(12 - 4);
-console.log(2 * 4);
-console.log(16 / 2);
+let favoriteNumber = 56;
+let message = ` My favorite Number Is ${favoriteNumber} `;
+console.log(message);
