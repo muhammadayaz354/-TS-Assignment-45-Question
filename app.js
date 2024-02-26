@@ -1,5 +1,5 @@
 "use strict";
-let personName = `\n\t Syed Shamir \t\n`;
-console.log(personName);
-let stripped = personName.trim();
-console.log(stripped);
+console.log(4 + 4);
+console.log(12 - 4);
+console.log(2 * 4);
+console.log(16 / 2);
