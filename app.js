@@ -1,4 +1,5 @@
 "use strict";
-let favoriteNumber = 56;
-let message = ` My favorite Number Is ${favoriteNumber} `;
-console.log(message);
+let friendsName = ["shamir", "wajahat", "affan", "hammad", "awais"];
+for (let i = 0; i < friendsName.length; i++) {
+    console.log(friendsName[i]);
+}
